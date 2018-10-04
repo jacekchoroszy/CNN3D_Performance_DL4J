@@ -1,0 +1,29 @@
+[main] INFO org.nd4j.linalg.factory.Nd4jBackend - Loaded [JCublasBackend] backend
+[main] INFO org.nd4j.nativeblas.NativeOpsHolder - Number of threads used for NativeOps: 32
+[main] INFO org.nd4j.nativeblas.Nd4jBlas - Number of threads used for BLAS: 0
+[main] INFO org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner - Backend used: [CUDA]; OS: [Windows 10]
+[main] INFO org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner - Cores: [4]; Memory: [4.0GB];
+[main] INFO org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner - Blas vendor: [CUBLAS]
+[main] INFO org.nd4j.linalg.jcublas.ops.executioner.CudaExecutioner - Device Name: [GeForce GTX 1080 Ti]; CC: [6.1]; Total/free memory: [11811160064]
+[main] INFO org.deeplearning4j.nn.multilayer.MultiLayerNetwork - Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [DEVICE]
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 0; iteration time: 24048 ms; samples/sec: 0.042; batches/sec: 0.042; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 1; iteration time: 23564 ms; samples/sec: 0.042; batches/sec: 0.042; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 2; iteration time: 23284 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 3; iteration time: 23273 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 4; iteration time: 23321 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 5; iteration time: 24277 ms; samples/sec: 0.041; batches/sec: 0.041; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 6; iteration time: 23272 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 7; iteration time: 23526 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 8; iteration time: 24631 ms; samples/sec: 0.041; batches/sec: 0.041; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 9; iteration time: 24546 ms; samples/sec: 0.041; batches/sec: 0.041; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 10; iteration time: 23356 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 11; iteration time: 23660 ms; samples/sec: 0.042; batches/sec: 0.042; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 12; iteration time: 23558 ms; samples/sec: 0.042; batches/sec: 0.042; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 13; iteration time: 23598 ms; samples/sec: 0.042; batches/sec: 0.042; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 14; iteration time: 23255 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 15; iteration time: 23321 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 16; iteration time: 23367 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 17; iteration time: 23249 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 18; iteration time: 23258 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 19; iteration time: 23182 ms; samples/sec: 0.043; batches/sec: 0.043; 
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 20; iteration time: 24157 ms; samples/sec: 0.041; batches/sec: 0.041; 

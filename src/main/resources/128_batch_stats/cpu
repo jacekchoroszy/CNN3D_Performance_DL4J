@@ -1,0 +1,47 @@
+main] INFO org.deeplearning4j.nn.multilayer.MultiLayerNetwork - Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [DEVICE]
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 0 is 0.6913448203396267
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 0; iteration time: 2472313 ms; samples/sec: 0.052; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 1 is 0.7126732375420997
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 1; iteration time: 2278208 ms; samples/sec: 0.056; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 2 is 0.7055663671522558
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 2; iteration time: 2276612 ms; samples/sec: 0.056; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 3 is 0.6993873519392367
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 3; iteration time: 2335145 ms; samples/sec: 0.055; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 4 is 0.6941983140675858
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 4; iteration time: 2511122 ms; samples/sec: 0.051; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 5 is 0.695743053830394
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 5; iteration time: 2460687 ms; samples/sec: 0.052; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 6 is 0.6935915894812946
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 6; iteration time: 2547916 ms; samples/sec: 0.050; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 7 is 0.6999712192814136
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 7; iteration time: 2502808 ms; samples/sec: 0.051; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 8 is 0.7102597812610426
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 8; iteration time: 2528187 ms; samples/sec: 0.051; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 9 is 0.7123547305750615
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 9; iteration time: 2504767 ms; samples/sec: 0.051; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 10 is 0.6897206051204464
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 10; iteration time: 2442081 ms; samples/sec: 0.052; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 11 is 0.6839385580289795
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 11; iteration time: 2591667 ms; samples/sec: 0.049; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 12 is 0.7045720974445935
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 12; iteration time: 2465197 ms; samples/sec: 0.052; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 13 is 0.6968894436327366
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 13; iteration time: 2458209 ms; samples/sec: 0.052; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 14 is 0.7116633121670304
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 14; iteration time: 2442483 ms; samples/sec: 0.052; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 15 is 0.6991849824477184
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 15; iteration time: 2481288 ms; samples/sec: 0.052; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 16 is 0.6965084639158351
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 16; iteration time: 2615074 ms; samples/sec: 0.049; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 17 is 0.6840403885544674
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 17; iteration time: 2466678 ms; samples/sec: 0.052; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 18 is 0.70617352479746
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 18; iteration time: 2368362 ms; samples/sec: 0.054; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 19 is 0.7003124449231435
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 19; iteration time: 2581765 ms; samples/sec: 0.050; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 20 is 0.7025766701397057
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 20; iteration time: 2452903 ms; samples/sec: 0.052; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 21 is 0.6894882260888321
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 21; iteration time: 2354947 ms; samples/sec: 0.054; batches/sec: 0.000; 
+[main] INFO org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 22 is 0.705037016943801
+[main] INFO org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 22; iteration time: 2387810 ms; samples/sec: 0.054; batches/sec: 0.000; 

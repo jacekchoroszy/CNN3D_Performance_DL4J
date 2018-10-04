@@ -1,0 +1,41 @@
+2018-08-27 19:29:48.199 [main] INFO  org.nd4j.linalg.factory.Nd4jBackend - Loaded [JCublasBackend] backend
+2018-08-27 19:29:51.566 [main] INFO  org.nd4j.nativeblas.NativeOpsHolder - Number of threads used for NativeOps: 32
+2018-08-27 19:29:52.395 [main] INFO  org.nd4j.nativeblas.Nd4jBlas - Number of threads used for BLAS: 0
+2018-08-27 19:29:52.402 [main] INFO  org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner - Backend used: [CUDA]; OS: [Windows 10]
+2018-08-27 19:29:52.403 [main] INFO  org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner - Cores: [4]; Memory: [4.0GB];
+2018-08-27 19:29:52.403 [main] INFO  org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner - Blas vendor: [CUBLAS]
+2018-08-27 19:29:52.403 [main] INFO  org.nd4j.linalg.jcublas.ops.executioner.CudaExecutioner - Device Name: [GeForce GTX 1080 Ti]; CC: [6.1]; Total/free memory: [11811160064]
+2018-08-27 19:29:52.512 [main] DEBUG org.nd4j.jita.handler.impl.CudaZeroHandler - Creating bucketID: 5
+2018-08-27 19:29:52.746 [main] DEBUG org.nd4j.jita.handler.impl.CudaZeroHandler - Creating bucketID: 4
+2018-08-27 19:29:52.799 [main] DEBUG org.nd4j.jita.handler.impl.CudaZeroHandler - Creating bucketID: 0
+2018-08-27 19:29:53.947 [main] DEBUG org.deeplearning4j.nn.conf.dropout.Dropout - CudnnDropoutHelper successfully initialized
+2018-08-27 19:29:54.352 [main] INFO  org.deeplearning4j.nn.multilayer.MultiLayerNetwork - Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [DEVICE]
+2018-08-27 19:29:54.365 [main] DEBUG org.nd4j.jita.handler.impl.CudaZeroHandler - Creating bucketID: 1
+2018-08-27 19:29:54.504 [main] DEBUG org.nd4j.jita.handler.impl.CudaZeroHandler - Creating bucketID: 3
+2018-08-27 19:29:54.533 [main] DEBUG org.nd4j.jita.handler.impl.CudaZeroHandler - Creating bucketID: 2
+2018-08-27 20:14:17.214 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 0 is 0.6963417494475915
+2018-08-27 20:14:17.215 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 0; iteration time: 2662865 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-27 20:58:28.479 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 1 is 0.7152553839998759
+2018-08-27 20:58:28.479 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 1; iteration time: 2651264 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-27 21:42:44.531 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 2 is 0.7215971362510903
+2018-08-27 21:42:44.531 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 2; iteration time: 2656051 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-27 22:27:06.519 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 3 is 0.7103780967746445
+2018-08-27 22:27:06.520 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 3; iteration time: 2661989 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-27 23:11:18.982 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 4 is 0.6969871222857762
+2018-08-27 23:11:18.982 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 4; iteration time: 2652462 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-27 23:55:29.212 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 5 is 0.7011063893380586
+2018-08-27 23:55:29.212 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 5; iteration time: 2650229 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-28 00:39:46.295 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 6 is 0.7233199562528251
+2018-08-28 00:39:46.296 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 6; iteration time: 2657084 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-28 01:23:59.521 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 7 is 0.6809731672747982
+2018-08-28 01:23:59.522 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 7; iteration time: 2653225 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-28 02:08:14.872 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 8 is 0.7114587268369835
+2018-08-28 02:08:14.873 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 8; iteration time: 2655351 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-28 02:52:28.300 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 9 is 0.7063293185861346
+2018-08-28 02:52:28.301 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 9; iteration time: 2653428 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-28 03:36:44.326 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 10 is 0.6987117721506445
+2018-08-28 03:36:44.326 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 10; iteration time: 2656025 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-28 04:20:53.249 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 11 is 0.7265558922014479
+2018-08-28 04:20:53.250 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 11; iteration time: 2648923 ms; samples/sec: 0.012; batches/sec: 0.000; 
+2018-08-28 05:05:10.364 [main] INFO  org.deeplearning4j.optimize.listeners.ScoreIterationListener - Score at iteration 12 is 0.7194349138240159
+2018-08-28 05:05:10.365 [main] INFO  org.deeplearning4j.optimize.listeners.PerformanceListener - ETL: 0 ms; iteration 12; iteration time: 2657115 ms; samples/sec: 0.012; batches/sec: 0.000; 
